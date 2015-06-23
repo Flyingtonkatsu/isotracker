@@ -24,3 +24,14 @@
   color: #999;
   font-size: 110%;
 }
+
+.jumbotron_admin {
+  background-color:#EBF5FF;
+  padding: 30px 15px;
+  margin-bottom: 30px;
+}
+
+.jumbotron_admin_font {
+  color: #00000A;
+  font-size: 110%;
+}
