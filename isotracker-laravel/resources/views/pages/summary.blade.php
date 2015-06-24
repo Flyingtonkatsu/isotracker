@@ -8,25 +8,32 @@
     
     <div class="row">
       <div class="col-lg-8">
+        
+        <button type="button" class="btn btn-xs btn-default">
+          <i class="fa fa-file-text fa-fw"></i> Documents</button>
+          
+        <button type="button" class="btn btn-xs btn-default">
+          <i class="fa fa-exclamation-circle fa-fw"></i> Complaints</button>
 
-        <ol class="breadcrumb">
-          <li class="active"><a href="#">Documents</a>
-          </li>
-          <li><a href="#complaints">Complaints</a>
-          </li>
-          <li><a href="#audit">Audit</a>
-          </li>
-          <li><a href="#competency">Competency</a>
-          </li>
-          <li><a href="#nc">NC</a>
-          </li>
-          <li><a href="#car">CAR</a>
-          </li>
-          <li><a href="#par">PAR</a>
-          </li>
-        </ol>
+        <button type="button" class="btn btn-xs btn-default">
+          <i class="fa fa-calculator fa-fw"></i> Audit</button>
+
+        <button type="button" class="btn btn-xs btn-default">
+          <i class="fa fa-graduation-cap fa-fw"></i> Competency</button>
+
+        <button type="button" class="btn btn-xs btn-default">
+          <i class="fa fa-flash fa-fw"></i> NC</button>
+
+        <button type="button" class="btn btn-xs btn-default">
+          <i class="fa fa-gear fa-fw"></i> CAR</button>
+
+        <button type="button" class="btn btn-xs btn-default">
+          <i class="fa fa-laptop fa-fw"></i> PAR</button>
+
       </div>
     </div>
+
+    <br>
 
     <div class = "row">
       <div class="col-lg-8">
