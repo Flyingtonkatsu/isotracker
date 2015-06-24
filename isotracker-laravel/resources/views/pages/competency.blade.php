@@ -8,30 +8,29 @@ Competency
 
 <!-- row with button control-->
 <div class="row">
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-eye-slash fa-fw"></i> New Assessment</button>
 
 	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-bars fa-fw"></i> Folder Properties</button>
+		<i class="fa fa-arrow-left fa-fw"></i> Back</button>
 
 	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-plus-circle fa-fw"></i> New Folder</button>
+		<i class="fa fa-plus-circle fa-fw"></i> New Assessment</button>
 
 	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-trash fa-fw"></i> Delete Folder</button>
+		<i class="fa fa-exclamation fa-fw"></i> Action Required</button>
 
 	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-edit fa-fw"></i> New Document</button>
+		<i class="fa fa-edit fa-fw"></i> My Assessments</button>
 
 	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-list fa-fw"></i> View All</button>
+		<i class="fa fa-list fa-fw"></i> All Assessments</button>
 
 	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-search fa-fw"></i> Search</button>
+		<i class="fa fa-briefcase fa-fw"></i> Escalation Notification</button>
 
 	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-wrench fa-fw"></i> Set-Up</button>
+		<i class="fa fa-wrench fa-fw"></i> Setup</button>
 </div>
+
 
 <!-- search bar-->
 <div class="row" style="padding-top: 5px">
