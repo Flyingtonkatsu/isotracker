@@ -43,4 +43,8 @@ class PagesController extends Controller
     return view('pages.documents');
   }
 
+  public function competency(){
+    return view('pages.competency');
+  }
+
 }
