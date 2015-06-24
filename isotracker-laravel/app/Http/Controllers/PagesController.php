@@ -55,4 +55,9 @@ class PagesController extends Controller
     return view('pages.reports');
   }
 
+  public function showReports($report)
+  {
+    return view('reports.report_'.$report);
+  }
+
 }

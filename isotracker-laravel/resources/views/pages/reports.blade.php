@@ -12,14 +12,14 @@ Reports
 
   		<div class="row">
   			<div class="col-lg-6 col-md-8">
-  				<a href="#messages">
+  				<a href="reports_documents">
   				<div class="panel panel-primary">
   					<div class="panel-heading">
   						<div class="row">
   							<div class="col-xs-2">
   								<i class="fa fa-comments fa-5x"></i>
   							</div>
-  							<div class="col-xs-8 huge text-center"> Messages</div>
+  							<div class="col-xs-8 huge text-center"> Documents</div>
   						</div>
   					</div>
   				</div>
@@ -29,7 +29,7 @@ Reports
 
   		<div class="row">
   			<div class="col-lg-6 col-md-8">
-  				<a href="#complaints">
+  				<a href="reports_complaints">
   				<div class="panel panel-red">
   					<div class="panel-heading">
   						<div class="row">
@@ -46,7 +46,7 @@ Reports
 
   		<div class="row">
   			<div class="col-lg-6 col-md-8">
-  				<a href="#audits">
+  				<a href="reports_audits">
   				<div class="panel panel-yellow">
   					<div class="panel-heading">
   						<div class="row">
@@ -63,7 +63,7 @@ Reports
 
   		<div class="row">
   			<div class="col-lg-6 col-md-8">
-  				<a href="#competency">
+  				<a href="reports_competency">
   				<div class="panel panel-green">
   					<div class="panel-heading">
   						<div class="row">
