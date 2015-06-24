@@ -6,13 +6,27 @@ Audits <small>Action Required</small>
 
 @section('content')
         <div class="row">
-          <button type="button" class="btn btn btn-xs btn-default">Go Back</button>
-          <button type="button" class="btn btn btn-xs btn-default">New Audit</button>
-          <button type="button" class="btn btn btn-xs btn-default">Action Required</button>
-          <button type="button" class="btn btn btn-xs btn-default">My Audits</button>
-          <button type="button" class="btn btn btn-xs btn-default">All Audits</button>
-          <button type="button" class="btn btn btn-xs btn-default">Status Calendar</button>
-          <button type="button" class="btn btn btn-xs btn-default">Set-Up</button>
+          <button type="button" class="btn btn btn-xs btn-default">
+            <i class="fa fa-fw fa-arrow-left"></i> Go Back</button>
+
+          <button type="button" class="btn btn btn-xs btn-default">
+            <i class="fa fa-fw fa-plus-circle"></i> New Audit</button>
+
+          <button type="button" class="btn btn btn-xs btn-default">
+            <i class="fa fa-fw fa-exclamation-triangle"></i> Action Required</button>
+
+          <button type="button" class="btn btn btn-xs btn-default">
+            <i class="fa fa-fw fa-edit"></i> My Audits</button>
+
+          <button type="button" class="btn btn btn-xs btn-default">
+            <i class="fa fa-fw fa-list"></i> All Audits</button>
+
+          <button type="button" class="btn btn btn-xs btn-default">
+            <i class="fa fa-fw fa-calendar"></i> Status Calendar</button>
+
+          <button type="button" class="btn btn btn-xs btn-default">
+            <i class="fa fa-fw fa-wrench"></i> Setup</button>
+         
           <br/><br/>
           <div class="jumbotron_admin">
             <div class="over container body-content">
