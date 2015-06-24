@@ -47,4 +47,18 @@ class PagesController extends Controller
     return view('pages.review');
   }
 
+  public function competency(){
+    return view('pages.competency');
+  }
+
+  public function reports(){
+    return view('pages.reports');
+  }
+
+  public function showReports($report)
+  {
+    return view('reports.report_'.$report);
+  }
+
+>>>>>>> upstream/master
 }

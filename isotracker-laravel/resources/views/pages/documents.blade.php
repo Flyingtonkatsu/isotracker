@@ -25,7 +25,7 @@ Documents Listing
 	<button type="button" class="btn btn-xs btn-default">Set-Up</button>
 </div>
 
-<p></p>
+<br>
 
 <!-- panels -->
 <div class="row">

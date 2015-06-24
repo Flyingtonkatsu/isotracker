@@ -30,22 +30,29 @@ Competency
 	<button type="button" class="btn btn-xs btn-default">
 		<i class="fa fa-wrench fa-fw"></i> Setup</button>
 </div>
+<br>
 
+<div class="row">
+	<div class="jumbotron_admin">
+		<div class="over container body-content">
+			<div class="col-lg-11">
 
 <!-- search bar-->
 <div class="row" style="padding-top: 5px">
 	<div class="col-lg-12">
 		<label>Enter Keyword(s) : </label> <input class="form-control-inline">
-		<button type="submit" class= "btn btn-default"> Search </button>
+		<button type="submit" class= "btn btn-sm btn-info"> Search </button>
 	</div>
 </div>
+
+<br>
 
 <!-- table with results -->
 <div class="row" style="padding-top: 5px">
 	<div class="table-responsive" style="padding-left: 10px; padding-right: 10px">
         <table class="table table-bordered table-hover table-striped">
             <thead>
-                <tr>
+                <tr style="background-color: #FFF">
                     <th>Assessment No</th>
                     <th>Name</th>
                     <th>Trainer</th>
@@ -63,6 +70,11 @@ Competency
             </tbody>
         </table>
     </div>
+</div>
+
+</div>
+</div>
+</div>
 </div>
 
 @stop
