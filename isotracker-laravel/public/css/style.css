@@ -39,3 +39,7 @@
 .th_audit {
    background-color: white;
 }
+
+.label-as-badge {
+    border-radius: 1em;
+}
