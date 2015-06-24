@@ -15,29 +15,14 @@ Documents Listing
 
 <!-- buttons for user control-->
 <div class="row">
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-eye-slash fa-fw"></i> Hide Folders</button>
-
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-bars fa-fw"></i> Folder Properties</button>
-
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-plus-circle fa-fw"></i> New Folder</button>
-
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-trash fa-fw"></i> Delete Folder</button>
-
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-edit fa-fw"></i> New Document</button>
-
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-list fa-fw"></i> View All</button>
-
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-search fa-fw"></i> Search</button>
-
-	<button type="button" class="btn btn-xs btn-default">
-		<i class="fa fa-wrench fa-fw"></i> Set-Up</button>
+	<button type="button" class="btn btn-xs btn-default">Hide Folders</button>
+	<button type="button" class="btn btn-xs btn-default">Folder Properties</button>
+	<button type="button" class="btn btn-xs btn-default">New Folder</button>
+	<button type="button" class="btn btn-xs btn-default">Delete Folder</button>
+	<button type="button" class="btn btn-xs btn-default">New Document</button>
+	<button type="button" class="btn btn-xs btn-default">View All</button>
+	<button type="button" class="btn btn-xs btn-default">Search</button>
+	<button type="button" class="btn btn-xs btn-default">Set-Up</button>
 </div>
 
 <br>
@@ -46,7 +31,7 @@ Documents Listing
 <div class="row">
 
 	<!-- panel for tree view -->
-	<div class="col-lg-3" style="padding-right: 2px">
+	<div class="col-lg-4">
 		<div class="panel panel-info">
 
 			<div class="panel-heading"> </div>
@@ -54,17 +39,17 @@ Documents Listing
 			<div class="panel-body">
 				<div class="easy-tree">
 					<ul>
-						<li><i class="fa fa-folder-open fa-fw"></i> Activities
+						<li>Activities
 							<ul>
-								<li><i class="fa fa-folder fa-fw"></i> Comments</li>
-								<li><i class="fa fa-folder fa-fw"></i> Approval</li>
-								<li><i class="fa fa-folder fa-fw"></i> Check-in</li>
-								<li><i class="fa fa-folder fa-fw"></i> Check-out</li>
-								<li><i class="fa fa-folder fa-fw"></i> Templates</li>
+								<li>Comments</li>
+								<li>Approval</li>
+								<li>Check-in</li>
+								<li>Check-out</li>
+								<li>Templates</li>
 							</ul>
 						</li>
-						<li><i class="fa fa-folder fa-fw"></i> Folder 1</li>
-						<li><i class="fa fa-folder fa-fw"></i> Folder 2</li>
+						<li>Folder 1</li>
+						<li>Folder 2</li>
 					</ul>
 				</div>
 			</div>
@@ -73,7 +58,7 @@ Documents Listing
 	</div>
 
 	<!-- panel for folder contents -->
-	<div class="col-lg-9" style="padding-left: 1px">
+	<div class="col-lg-8">
 		<div class="panel panel-info">
 
 			<div class="panel-heading">

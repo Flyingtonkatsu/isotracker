@@ -60,4 +60,5 @@ class PagesController extends Controller
     return view('reports.report_'.$report);
   }
 
+>>>>>>> upstream/master
 }
