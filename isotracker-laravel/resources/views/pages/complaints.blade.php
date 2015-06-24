@@ -6,44 +6,38 @@ Complaints <small>Action Required</small>
 
 @section('content')
         <div class="row">
-          <button type="button" class="btn btn-default">Go Back</button>
-          <button type="button" class="btn btn-default">New Complaints</button>
-          <button type="button" class="btn btn-default">Action Required</button>
-          <button type="button" class="btn btn-default">My Complaints</button>
-          <button type="button" class="btn btn-default">All Complaints</button>
-          <button type="button" class="btn btn-default">Set-Up</button>
+          <button type="button" class="btn btn btn-xs btn-default">Go Back</button>
+          <button type="button" class="btn btn btn-xs btn-default">New Complaints</button>
+          <button type="button" class="btn btn btn-xs btn-default">Action Required</button>
+          <button type="button" class="btn btn btn-xs btn-default">My Complaints</button>
+          <button type="button" class="btn btn btn-xs btn-default">All Complaints</button>
+          <button type="button" class="btn btn btn-xs btn-default">Set-Up</button>
           <br/><br/>
           <div class="jumbotron_admin">
             <div class="over container body-content">
               <div class="col-lg-11">
                 <div class="row">
                   <div class="col-lg-2">
-                    <label><i class="fa fa-fw fa-calendar"></i>From:  </label>
-                    <div class="dropdown">
-                      <button class="btn btn-block btn-default dropdown-toggle" type="button" data-toggle="dropdown">All <span class="caret"></span></button>
-                      <ul class="dropdown-menu">
-                        <li><a href="#">All</a></li>
-                        <li><a href="#">Customer</a></li>
-                        <li><a href="#">Supplier</a></li>
-                        <li><a href="#">Employee</a></li>
-                        <li><a href="#">Various</a></li>
-                      </ul>
-                    </div>
+                    <label>From:  </label>
+                    <select class="form-control">
+                      <option>All</option>
+                      <option>Customer</option>
+                      <option>Supplier</option>
+                      <option>Employee</option>
+                      <option>Various</option>
+                    </select>
                   </div>
                   <div class="col-lg-2">
-                    <label><i class="fa fa-fw fa-calendar"></i>About:  </label>
-                    <div class="dropdown">
-                      <button class="btn btn-block btn-default dropdown-toggle" type="button" data-toggle="dropdown">All <span class="caret"></span></button>
-                      <ul class="dropdown-menu">
-                        <li><a href="#">All</a></li>
-                        <li><a href="#">Product</a></li>
-                        <li><a href="#">Process</a></li>
-                        <li><a href="#">Customer</a></li>
-                        <li><a href="#">Supplier</a></li>
-                        <li><a href="#">Employee</a></li>
-                        <li><a href="#">Others</a></li>
-                      </ul>
-                    </div>
+                    <label>About:  </label>
+                    <select class="form-control">
+                      <option>All</option>
+                      <option>Product</option>
+                      <option>Process</option>
+                      <option>Customer</option>
+                      <option>Supplier</option>
+                      <option>Employee</option>
+                      <option>Others</option>
+                    </select>
                   </div>
                   <div class="col-lg-2">
                     <label><i class="fa fa-fw fa-calendar"></i>Date From:  </label>
@@ -93,7 +87,7 @@ Complaints <small>Action Required</small>
                         <td>Logged</td>
                         <td>3</td>
                         <td>
-                          <a href="tables.html" class="jumbotron_admin_font"><i class="fa fa-fw fa-info-circle"></i></a>
+                          <a href="#" class="jumbotron_admin_font"><font color="red"><i class="fa fa-fw fa-info-circle"></font></i></a>
                         </td>
                       </tr>
                       <tr>
@@ -107,7 +101,7 @@ Complaints <small>Action Required</small>
                         <td>Accepted</td>
                         <td>2</td>
                         <td>
-                          <a href="tables.html" class="jumbotron_admin_font"><i class="fa fa-fw fa-info-circle"></i></a>
+                          <a href="#" class="jumbotron_admin_font"><font color="red"><i class="fa fa-fw fa-info-circle"></font></i></a>
                         </td>
                       </tr>
                     </tbody>

@@ -19,5 +19,5 @@ Route::get('summary', 'PagesController@summary');
 Route::get('audits', 'PagesController@audits');
 Route::get('complaints', 'PagesController@complaints');
 Route::get('user', 'PagesController@user');
-
+Route::get('review', 'PagesController@review');
 Route::get('documents', 'PagesController@documents');
