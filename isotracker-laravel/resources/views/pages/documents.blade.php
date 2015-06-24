@@ -87,11 +87,11 @@ Documents Listing
 
 					<div class="col-lg-4">
 						<select class="form-control">
-                            <option>All</option>
-                            <option>Review</option>
-                            <option>Approval</option>
-                            <option>Change Request</option>
-                        </select>
+                <option>All</option>
+                <option>Review</option>
+                <option>Approval</option>
+                <option>Change Request</option>
+            </select>
 					</div>
 				</div>
 

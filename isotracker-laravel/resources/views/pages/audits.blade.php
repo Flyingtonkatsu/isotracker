@@ -6,13 +6,13 @@ Audits <small>Action Required</small>
 
 @section('content')
         <div class="row">
-          <button type="button" class="btn btn-default">Go Back</button>
-          <button type="button" class="btn btn-default">New Audit</button>
-          <button type="button" class="btn btn-default">Action Required</button>
-          <button type="button" class="btn btn-default">My Audits</button>
-          <button type="button" class="btn btn-default">All Audits</button>
-          <button type="button" class="btn btn-default">Status Calendar</button>
-          <button type="button" class="btn btn-default">Set-Up</button>
+          <button type="button" class="btn btn btn-xs btn-default">Go Back</button>
+          <button type="button" class="btn btn btn-xs btn-default">New Audit</button>
+          <button type="button" class="btn btn btn-xs btn-default">Action Required</button>
+          <button type="button" class="btn btn btn-xs btn-default">My Audits</button>
+          <button type="button" class="btn btn btn-xs btn-default">All Audits</button>
+          <button type="button" class="btn btn btn-xs btn-default">Status Calendar</button>
+          <button type="button" class="btn btn btn-xs btn-default">Set-Up</button>
           <br/><br/>
           <div class="jumbotron_admin">
             <div class="over container body-content">
@@ -65,8 +65,8 @@ Audits <small>Action Required</small>
                         <td>Awaiting</td>
                         <td>14-Jul-2014 16:00</td>
                         <td>
-                          <a href="tables.html" class="jumbotron_admin_font"><i class="fa fa-fw fa-info-circle"></i></a>
-                          <a href="tables.html" class="jumbotron_admin_font"><i class="fa fa-fw fa-rocket"></i></a>
+                          <a href="#" class="jumbotron_admin_font"><font color="red"><i class="fa fa-fw fa-info-circle"></font></i></a>
+                          <a href="#" class="jumbotron_admin_font"><i class="fa fa-fw fa-rocket"></i></a>
                         </td>
                       </tr>
                     </tbody>

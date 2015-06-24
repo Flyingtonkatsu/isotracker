@@ -38,9 +38,13 @@ class PagesController extends Controller
   {
     return view('pages.complaints');
   }
-  
+
   public function documents(){
     return view('pages.documents');
+  }
+
+  public function review(){
+    return view('pages.review');
   }
 
   public function competency(){
