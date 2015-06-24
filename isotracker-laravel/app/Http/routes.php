@@ -21,3 +21,4 @@ Route::get('complaints', 'PagesController@complaints');
 Route::get('user', 'PagesController@user');
 Route::get('review', 'PagesController@review');
 Route::get('documents', 'PagesController@documents');
+Route::get('competency', 'PagesController@competency');
