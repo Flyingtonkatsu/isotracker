@@ -31,7 +31,7 @@ User Information
               <input class="form-control" placeholder="e.g. dela Cruz">
             </div>
           </div>
-
+          
             <label>E-Mail</label>
             <input class="form-control" placeholder="e.g. user@example.com">
 

@@ -38,5 +38,9 @@ class PagesController extends Controller
   {
     return view('pages.complaints');
   }
+  
+  public function documents(){
+    return view('pages.documents');
+  }
 
 }
