@@ -13,6 +13,9 @@
 
 Route::get('home', 'PagesController@index');
 Route::get('/', 'PagesController@index');
+
 Route::get('admin', 'PagesController@admin');
 Route::get('summary', 'PagesController@summary');
 Route::get('user', 'PagesController@user');
+
+Route::get('documents', 'PagesController@documents');

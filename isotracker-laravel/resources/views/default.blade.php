@@ -23,7 +23,7 @@
 	<link href="/css/plugins/morris.css" rel="stylesheet">
 
 	<!-- Custom Fonts -->
-	<link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">S
 </head>
 
 

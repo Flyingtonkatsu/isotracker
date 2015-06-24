@@ -29,4 +29,8 @@ class PagesController extends Controller
     return view('pages.user');
   }
 
+  public function documents(){
+    return view('pages.documents');
+  }
+
 }
