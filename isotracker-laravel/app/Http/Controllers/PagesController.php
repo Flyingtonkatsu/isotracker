@@ -51,4 +51,8 @@ class PagesController extends Controller
     return view('pages.competency');
   }
 
+  public function reports(){
+    return view('pages.reports');
+  }
+
 }

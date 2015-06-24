@@ -40,7 +40,7 @@ Documents Listing
 		<i class="fa fa-wrench fa-fw"></i> Set-Up</button>
 </div>
 
-<p></p>
+<br>
 
 <!-- panels -->
 <div class="row">
