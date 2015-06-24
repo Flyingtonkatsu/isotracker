@@ -29,4 +29,14 @@ class PagesController extends Controller
     return view('pages.user');
   }
 
+  public function audits()
+  {
+    return view('pages.audits');
+  }
+
+  public function complaints()
+  {
+    return view('pages.complaints');
+  }
+
 }
