@@ -6,12 +6,12 @@ Complaints <small>Action Required</small>
 
 @section('content')
         <div class="row">
-          <button type="button" class="btn btn btn-xs btn-default">Go Back</button>
-          <button type="button" class="btn btn btn-xs btn-default">New Complaints</button>
-          <button type="button" class="btn btn btn-xs btn-default">Action Required</button>
-          <button type="button" class="btn btn btn-xs btn-default">My Complaints</button>
-          <button type="button" class="btn btn btn-xs btn-default">All Complaints</button>
-          <button type="button" class="btn btn btn-xs btn-default">Set-Up</button>
+          <button type="button" class="btn btn btn-xs btn-default"><i class="fa fa-fw fa-arrow-left"></i> Go Back</button>
+          <button type="button" class="btn btn btn-xs btn-default"><i class="fa fa-fw fa-plus-circle"></i> New Complaints</button>
+          <button type="button" class="btn btn btn-xs btn-default"><i class="fa fa-fw fa-exclamation-triangle"></i> Action Required</button>
+          <button type="button" class="btn btn btn-xs btn-default"><i class="fa fa-fw fa-user"></i> My Complaints</button>
+          <button type="button" class="btn btn btn-xs btn-default"><i class="fa fa-fw fa-list-ul"></i> All Complaints</button>
+          <button type="button" class="btn btn btn-xs btn-default"><i class="fa fa-fw fa-wrench"></i> Set-Up</button>
           <br/><br/>
           <div class="jumbotron_admin">
             <div class="over container body-content">
@@ -49,7 +49,7 @@ Complaints <small>Action Required</small>
                   </div>
                   <div class="col-lg-2">
                     <br/>
-                    <button type="button" class="btn btn-info">Find</button>
+                    <button type="button" class="btn btn-md btn-info"><i class="fa fa-fw fa-search"></i> </button>
                   </div>
                   <div class="col-lg-2">
                     <label>Search: </label>

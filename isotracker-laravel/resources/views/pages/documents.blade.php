@@ -16,14 +16,29 @@ Documents Listing
 
 <!-- buttons for user control-->
 <div class="row">
-	<button type="button" class="btn btn-xs btn-default">Hide Folders</button>
-	<button type="button" class="btn btn-xs btn-default">Folder Properties</button>
-	<button type="button" class="btn btn-xs btn-default">New Folder</button>
-	<button type="button" class="btn btn-xs btn-default">Delete Folder</button>
-	<button type="button" class="btn btn-xs btn-default">New Document</button>
-	<button type="button" class="btn btn-xs btn-default">View All</button>
-	<button type="button" class="btn btn-xs btn-default">Search</button>
-	<button type="button" class="btn btn-xs btn-default">Set-Up</button>
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-eye-slash"></i> Hide Folders</button>
+
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-list"></i> Folder Properties</button>
+
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-plus-circle"></i> New Folder</button>
+
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-close"></i> Delete Folder</button>
+
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-file-text"></i> New Document</button>
+
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-list-ul"></i> View All</button>
+
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-search"></i> Search</button>
+
+	<button type="button" class="btn btn-xs btn-default">
+		<i class="fa fa-fw fa-wrench"></i> Set-Up</button>
 </div>
 
 <br>
@@ -40,17 +55,17 @@ Documents Listing
 			<div class="panel-body">
 				<div class="easy-tree">
 					<ul>
-						<li>Activities
+						<li><i class="fa fa-fw fa-folder-open"></i> Activities
 							<ul>
-								<li>Comments</li>
-								<li>Approval</li>
-								<li>Check-in</li>
-								<li>Check-out</li>
-								<li>Templates</li>
+								<li><i class="fa fa-fw fa-folder-open"></i> Comments</li>
+								<li><i class="fa fa-fw fa-folder"></i> Approval</li>
+								<li><i class="fa fa-fw fa-folder"></i> Check-in</li>
+								<li><i class="fa fa-fw fa-folder"></i> Check-out</li>
+								<li><i class="fa fa-fw fa-folder"></i> Templates</li>
 							</ul>
 						</li>
-						<li>Folder 1</li>
-						<li>Folder 2</li>
+						<li><i class="fa fa-fw fa-folder"></i> Folder 1</li>
+						<li><i class="fa fa-fw fa-folder"></i> Folder 2</li>
 					</ul>
 				</div>
 			</div>
