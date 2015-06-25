@@ -3,7 +3,7 @@
   <div class="panel-heading">
     <div class="row">
       <div class="col-xs-3">
-        <i class="fa fa-paper-plane fa-3x"></i>
+        <i class="fa fa-binoculars fa-3x"></i>
       </div>
       <div class="col-xs-9 text-right">
         <b><div>Documents Impending</div><div>Review</div></b>
