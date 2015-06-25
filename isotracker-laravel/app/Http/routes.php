@@ -26,3 +26,4 @@ Route::get('competency', 'PagesController@competency');
 Route::get('reports', 'PagesController@reports');
 
 Route::get('reports_{report}', 'PagesController@showReports');
+Route::get('admin_{module}', 'PagesController@showAdminModules');
