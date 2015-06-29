@@ -64,7 +64,7 @@
                 <ul class="nav navbar-nav side-nav">
                     <li class="details_pane">
                         Super Admin <br/>
-                        June 26, 2015 <br/>
+                        June 29, 2015 <br/>
                         10:00 AM
                     </li>
                     <li>
@@ -74,7 +74,7 @@
                         <a href="summary"><i class="fa fa-fw fa-bar-chart-o"></i> Summary</a>
                     </li>
                     <li>
-                        <a href="documents"><i class="fa fa-fw fa-table"></i> Documents</a>
+                        <a href="documents"><i class="fa fa-fw fa-file-text"></i> Documents</a>
                     </li>
                     <li>
                         <a href="audits"><i class="fa fa-fw fa-calculator"></i> Audits</a>

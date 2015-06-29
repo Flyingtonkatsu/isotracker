@@ -22,13 +22,13 @@ Administrator Menu
                           <i class="fa fa-book fa-2x"></i> &nbsp Report Module Access</a> <br/><br/>
                     </div>
                     <div class="col-sm-4">
-                        <a href="#" class="jumbotron_admin_font">
+                        <a href="admin_customer" class="jumbotron_admin_font">
                           <i class="fa fa-briefcase fa-2x"></i> &nbsp Customer</a> <br/><br/>
-                        <a href="#" class="jumbotron_admin_font">
+                        <a href="admin_supplier" class="jumbotron_admin_font">
                           <i class="fa fa-truck fa-2x"></i> &nbsp Supplier</a> <br/><br/>
-                        <a href="#" class="jumbotron_admin_font">
+                        <a href="admin_employee" class="jumbotron_admin_font">
                           <i class="fa fa-child fa-2x"></i> &nbsp Employee</a> <br/><br/>
-                        <a href="#" class="jumbotron_admin_font">
+                        <a href="admin_product" class="jumbotron_admin_font">
                           <i class="fa fa-lightbulb-o fa-2x"></i> &nbsp Product</a> <br/><br/>
                         <a href="#" class="jumbotron_admin_font">
                           <i class="fa fa-reorder fa-2x"></i> &nbsp Process</a> <br/><br/>
