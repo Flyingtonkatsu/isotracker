@@ -17,7 +17,7 @@ Reports
   					<div class="panel-heading">
   						<div class="row">
   							<div class="col-xs-2">
-  								<i class="fa fa-comments fa-5x"></i>
+  								<i class="fa fa-file-text fa-5x"></i>
   							</div>
   							<div class="col-xs-8 huge text-center"> Documents</div>
   						</div>
